@@ -1,6 +1,6 @@
 # Data Analytics Daily Tasks 📊
 
-Welcome to the **Data Analytics Daily Task** repository! This repository serves as a practical log and showcase of daily hands-on projects, exercises, and tasks covering the core stack of data analytics: Microsoft Excel, SQL, Python (NumPy & Matplotlib), and Power BI.
+Welcome to the **Data Analytics Daily Task** repository! This repository serves as a practical log and showcase of daily hands-on projects, exercises, and tasks covering the core stack of data analytics: Microsoft Excel, My-SQL, Python (NumPy, Pandas, Matplotlib & Seaborn), and Power BI.
 
 ---
 
